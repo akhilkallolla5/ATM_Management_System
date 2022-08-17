@@ -3,13 +3,13 @@
 
   # Admin Login:
 
-    Username -> Akhil
+    Username -> Admin
 
-    Pass -> admin
+    Pass -> admin@123
 
   # Manager Login:
 
-    Username -> Anusha
+    Username -> Manager
 
     Pass -> 123456
 
