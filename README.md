@@ -1,11 +1,16 @@
 # ATM_Management_System
+  
 
-Admin Details:- 
-Username -> Akhil,
-Pass -> admin
+  # Admin Login:
 
-Manager Details:-
-Username -> Anusha,
-Pass -> 123456
+    Username -> Akhil
 
-You can save changes in Admin and Manager Details by editing "atm.sql" file
+    Pass -> admin
+
+  # Manager Login:
+
+    Username -> Anusha
+
+    Pass -> 123456
+
+You can make changes in Admin and Manager Details using "atm.sql" file
